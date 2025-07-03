@@ -1,6 +1,0 @@
-Necesitaras esto para que el codigo funcione correctamente
-
-pip install pandas numpy plotly openpyxl xlrd geopy scikit-learn                        <-IMPORTANTE
-
-los paquetes sirvieron para modelar, leer, calcular espacio geografico
-y hacer calculos matematicos dentro del proyecto
